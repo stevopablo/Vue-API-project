@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "name": "stack",
+      "email": "stack@gmail.com",
+      "password": 12345,
+      "id": "8d2f"
+    },
+    {
+      "id": "1428",
+      "name": "tony",
+      "email": "tony@gmail.com",
+      "password": 123414
+    },
+    {
+      "id": "de24",
+      "name": "spider-man",
+      "email": "spidedr@gmail.com",
+      "password": 5555555
+    },
+    {
+      "id": "5b97",
+      "name": "thanos",
+      "surname": "da silva",
+      "email": "thanos@gmail.com",
+      "password": 5555555,
+      "newspaper": false
+    },
+    {
+      "id": "5d50",
+      "name": "pablo",
+      "surname": "gama",
+      "email": "pablodagama@gmail.com",
+      "password": "vasco124",
+      "newspaper": false
+    },
+    {
+      "id": "33ab",
+      "name": "luiz",
+      "surname": "felipe",
+      "email": "felipe123@gmail.com",
+      "password": "139094",
+      "newspaper": true
+    },
+    {
+      "id": "643b",
+      "name": "monkey",
+      "surname": "luffy",
+      "email": "monkey@gmail.com",
+      "password": "76666",
+      "newspaper": true
+    },
+    {
+      "id": "509e",
+      "name": "zoro",
+      "surname": "silva",
+      "email": "silvazoro@gmail.com",
+      "password": "zoro12551",
+      "newspaper": false
+    },
+    {
+      "id": "64b9",
+      "name": "ariana",
+      "surname": "pequena",
+      "email": "ariana@gmail.com",
+      "password": "ariana1234",
+      "newspaper": false
+    },
+    {
+      "id": "5a70",
+      "name": "ariana",
+      "surname": "pequena",
+      "email": "ariana@gmail.com",
+      "password": "ariana1234",
+      "newspaper": false
+    },
+    {
+      "id": "c8b2",
+      "name": "ariana",
+      "surname": "pequena",
+      "email": "ariana@gmail.com",
+      "password": "12314514143",
+      "newspaper": false
+    }
+  ]
+}
